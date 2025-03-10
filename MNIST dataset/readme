@@ -1,7 +1,0 @@
-The exercises for this session are listed below:
-1.Reproduce the program for MNIST text recognition.
-2.Inspect the images after two convolutions.
-3.Try removing the Dropout from the model and check the changes in results.
-4.Add another CONV layer and check the changes in results.
-5.Add another FC layer and check the changes in results.
-6.Add the Epoch and see how the results change.

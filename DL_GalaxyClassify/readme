@@ -1,1 +1,4 @@
+The assignment due on 20250331 requires using a CNN to classify color images of galaxies based on their morphological features. 
+However, the dataset is highly imbalanced, and we are not allowed to modify the data. 
+As a result, the accuracy of the model is expected to be quite low...
 
